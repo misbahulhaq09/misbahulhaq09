@@ -1,0 +1,66 @@
+{
+  "name": "MIS BAHUL HAQ",
+  "username": "misbahulhaq09",
+  "brand": "Growfee.ai",
+  "tagline": "AI \u00d7 Real Estate \u2014 Websites, Automation & Growth",
+  "location": "Building from Raipur, Chhattisgarh, India",
+  "eyebrow": "GROWFEE.AI \u2014 RAIPUR, INDIA",
+  "memberSince": "Jan 2025",
+  "publicRepos": 19,
+  "tiles": [
+    {
+      "id": "build",
+      "kicker": "BUILD",
+      "title": "Websites & Web Apps",
+      "countKey": "publicRepos",
+      "label": "public repos",
+      "href": "https://github.com/misbahulhaq09?tab=repositories"
+    },
+    {
+      "id": "automate",
+      "kicker": "AUTOMATE",
+      "title": "AI Automation & Lead Systems",
+      "countKey": "totalContributions",
+      "label": "contributions this year",
+      "href": "https://github.com/misbahulhaq09"
+    },
+    {
+      "id": "grow",
+      "kicker": "GROW",
+      "title": "Content, Ads & Brand Growth",
+      "countKey": "activeDays",
+      "label": "active build days",
+      "href": "https://www.instagram.com/_mis.bahul.haq"
+    }
+  ],
+  "featuredRepos": [
+    {
+      "name": "GROWFEE.AI",
+      "description": "GROWFEE.AI SERVICE",
+      "language": "TypeScript",
+      "file": "repo-growfee.svg",
+      "url": "https://github.com/misbahulhaq09/GROWFEE.AI"
+    },
+    {
+      "name": "Simnani-works-",
+      "description": "SIMNANI WORKS",
+      "language": "TypeScript",
+      "file": "repo-simnani-works.svg",
+      "url": "https://github.com/misbahulhaq09/Simnani-works-"
+    },
+    {
+      "name": "Simnani-group-",
+      "description": "SIMNANI GROUP",
+      "language": "TypeScript",
+      "file": "repo-simnani-group.svg",
+      "url": "https://github.com/misbahulhaq09/Simnani-group-"
+    },
+    {
+      "name": "nazakat.salon",
+      "description": "Nazakat Salon website",
+      "language": "JavaScript",
+      "file": "repo-nazakat.svg",
+      "url": "https://github.com/misbahulhaq09/nazakat.salon"
+    }
+  ]
+}
